@@ -1,0 +1,31 @@
+/* For all your custom CSS rules */
+
+nav {
+  height: 40px;
+  background-color: #000080;
+}
+
+header {
+  height: 460px;
+  background-color: #0cf;
+  color: white;
+}
+
+#location {
+  height: 340px;
+}
+
+#beers {
+  height: 460px;
+  background-color: #d4aa00;
+  color: white;
+}
+
+#follow {
+  height: 310px;
+  background-color: #000080;
+}
+
+footer {
+  height: 20px;
+}

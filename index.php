@@ -6,52 +6,66 @@
     <title>Mike in 2014: the beerening</title>
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/app.css" />
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
+    <nav>
+    </nav>
     <header>
-      <h1 class="logo">Miketoberfest <small>2014</small></h1>
-      <p>Come join the celebration of Mike's glorious return to the sunshine state!</p>
-      <p class="date">Saturday, October 25, 2014</p>
-      <a href="#contact">Sign-up Now</a>
+      <div class="row">
+        <h1 class="logo">Miketoberfest <small>2014</small></h1>
+        <p>Come join the celebration of Mike's glorious return to the sunshine state!</p>
+        <p class="date">Saturday, October 25, 2014</p>
+        <a href="#contact">Sign-up Now</a>
+      </div>
     </header>
     <section id="location">
-      <h2>Where I'm having this thing</h2>
-      <dl>
-        <dt>When</dt><dd>Saturday, October 25, 2014, 3-7 pm</dd>
-        <dt>Where</dt><dd>Sand Point Park, Titusville, FL</dd>
-      </dl>
+      <div class="row">
+        <h2>Where I'm having this thing</h2>
+        <dl>
+          <dt>When</dt><dd>Saturday, October 25, 2014, 3-7 pm</dd>
+          <dt>Where</dt><dd>Sand Point Park, Titusville, FL</dd>
+        </dl>
+      </div>
     </section>
     <section id="beers">
-      <h2>On Tap</h2>
-      <div class="otw">
-        <h3>Off the wall</h3>
-        <p>Bright, summery, and strong. The crowd-pleaser is back</p>
-      </div>
-      <div class="hishe">
-        <h3>How It Should Have Ended</h3>
-        <p>One year ago I started this brewing experiment. Now I revisit my first disaster-of-a-beer in true Floridian Oktoberfest style</p>
-      </div>
-      <div class="psa">
-        <h3>The Angst</h3>
-        <p>My Pumpkin Spice Ale. Ugh, its so mainstream.</p>
+      <div class="row">
+        <h2>On Tap</h2>
+        <div class="otw">
+          <h3>Off the wall</h3>
+          <p>Bright, summery, and strong. The crowd-pleaser is back</p>
+        </div>
+        <div class="hishe">
+          <h3>How It Should Have Ended</h3>
+          <p>One year ago I started this brewing experiment. Now I revisit my first disaster-of-a-beer in true Floridian Oktoberfest style</p>
+        </div>
+        <div class="psa">
+          <h3>The Angst</h3>
+          <p>My Pumpkin Spice Ale. Ugh, its so mainstream.</p>
+        </div>
       </div>
     </section>
     <section id="food">
-      <h2>Foods included</h2>
-      <ul>
-        <li>Pretzels</li>
-        <li>Garlic rolls</li>
-        <li>Beer!</li>
-      </ul>
-    </section>
-    <section id="about">
-      <div class="venue">
+      <div class="row">
+        <h2>Foods included</h2>
+        <ul>
+          <li>Pretzels</li>
+          <li>Garlic rolls</li>
+          <li>Beer!</li>
+        </ul>
       </div>
-      <div class="themike">
+    </section>
+    <section id="follow">
+      <div class="row">
+        <h2>Follow me on twitter with #Miketoberfest !</h2>
+        <a href="#follow">Sign me up!</a>
       </div>
     </section>
     <footer>
+      <div class="row">
+        <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
+      </div>
     </footer>
    <script src="js/vendor/jquery.js"></script>
    <script src="js/foundation.min.js"></script>
