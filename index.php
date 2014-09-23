@@ -20,48 +20,6 @@
         <a href="#contact">Sign-up Now</a>
       </div>
     </header>
-    <section id="location">
-      <div class="row">
-        <h2>Where I'm having this thing</h2>
-        <dl>
-          <dt>When</dt><dd>Saturday, October 25, 2014, 3-7 pm</dd>
-          <dt>Where</dt><dd>Sand Point Park, Titusville, FL</dd>
-        </dl>
-      </div>
-    </section>
-    <section id="beers">
-      <div class="row">
-        <h2>On Tap</h2>
-        <div class="otw">
-          <h3>Off the wall</h3>
-          <p>Bright, summery, and strong. The crowd-pleaser is back</p>
-        </div>
-        <div class="hishe">
-          <h3>How It Should Have Ended</h3>
-          <p>One year ago I started this brewing experiment. Now I revisit my first disaster-of-a-beer in true Floridian Oktoberfest style</p>
-        </div>
-        <div class="psa">
-          <h3>The Angst</h3>
-          <p>My Pumpkin Spice Ale. Ugh, its so mainstream.</p>
-        </div>
-      </div>
-    </section>
-    <section id="food">
-      <div class="row">
-        <h2>Foods included</h2>
-        <ul>
-          <li>Pretzels</li>
-          <li>Garlic rolls</li>
-          <li>Beer!</li>
-        </ul>
-      </div>
-    </section>
-    <section id="follow">
-      <div class="row">
-        <h2>Follow me on twitter with #Miketoberfest !</h2>
-        <a href="#follow">Sign me up!</a>
-      </div>
-    </section>
     <footer>
       <div class="row">
         <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
