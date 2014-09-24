@@ -1,14 +1,49 @@
 /* For all your custom CSS rules */
 
+header, footer {
+  text-align: center;
+}
+
 nav {
   height: 40px;
-  background-color: #000080;
 }
 
 header {
   height: 460px;
   background-color: #0cf;
   color: white;
+  background: url('/img/container_park_beer_fest.jpeg') no-repeat center top fixed;
+  background-size: cover;
+}
+
+header > div {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
+
+header h1 {
+  margin-top: 60px;
+  font-family: "Forgotten Futurist Shadow", sans-serif;
+  color: #fffe9c;
+  font-size: 108pt;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+header h1 small {
+  font-family: "Forgotten Futurist", sans-serif;
+  font-size: 40pt;
+  color: #fff;
+}
+
+header p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+header .date {
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 #location {
@@ -26,6 +61,7 @@ header {
   background-color: #000080;
 }
 
-footer {
+footer p {
   height: 20px;
+  font-size: 12px;
 }
