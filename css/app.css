@@ -25,14 +25,14 @@ header h1 {
   margin-top: 60px;
   font-family: "Forgotten Futurist Shadow", sans-serif;
   color: #fffe9c;
-  font-size: 108pt;
+  font-size: 80px;
   text-transform: uppercase;
   font-style: italic;
 }
 
 header h1 small {
   font-family: "Forgotten Futurist", sans-serif;
-  font-size: 40pt;
+  font-size: 25px;
   color: #fff;
 }
 
