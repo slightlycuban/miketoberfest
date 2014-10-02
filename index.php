@@ -15,6 +15,7 @@
         <section class="top-bar-section">
           <ul>
             <li><a href="/">Home</a></li>
+            <li><a href="#what">What</a></li>
           </ul>
         </section>
       </nav>
@@ -27,6 +28,16 @@
         <p><a class="button" href="http://twitter.com/intent/tweet?text=See you there! @SlightlyCuban&hashtags=miketoberfest">I'm Coming!</a></p>
       </div>
     </header>
+    <section id="what">
+      <div class="row">
+        <h2 class="large-12 column">What?</h2>
+        <div class="large-8 column">
+          <p>Some while ago Mike left the comfort of Florida for colder pastures. But now he is back</p>
+          <p>Join Mike as he shares tech talks, baked goods, and all the homebrew a man can throw together in a month.</p>
+        </div>
+        <img class="large-4 column" src="/img/plug-group.jpg">
+      </div>
+    </section>
     <footer>
       <div class="row">
         <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
