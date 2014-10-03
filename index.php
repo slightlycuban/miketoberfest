@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.8/slick.css"/>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
@@ -16,6 +18,7 @@
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="#what">What</a></li>
+            <li><a href="#beer">Beers</a></li>
           </ul>
         </section>
       </nav>
@@ -38,6 +41,13 @@
         <img class="large-4 column" src="/img/plug-group.jpg">
       </div>
     </section>
+    <section id="beer">
+      <div class="row">
+        <h2 class="large-12 column">Beers on Bottle</h2>
+        <div class="carousel">
+        </div>
+      </div>
+    </section>
     <footer>
       <div class="row">
         <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
@@ -48,5 +58,7 @@
    <script>
      $(document).foundation();
    </script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.8/slick.min.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>
