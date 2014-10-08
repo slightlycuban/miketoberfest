@@ -49,7 +49,7 @@ header .date {
   margin-bottom: 20px;
 }
 
-#what, #location, #beer {
+#what, #location {
   height: 300px;
 }
 
@@ -63,10 +63,13 @@ header .date {
   color: white;
 }
 
-#beers {
-  height: 460px;
-  background-color: #d4aa00;
-  color: white;
+#beer h2 {
+  float: none;
+}
+
+#beer .carousel div {
+  height: 100px;
+  max-width: 800px;
 }
 
 #follow {

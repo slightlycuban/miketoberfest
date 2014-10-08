@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.8/slick.css"/>
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
@@ -45,6 +46,18 @@
       <div class="row">
         <h2 class="large-12 column">Beers on Bottle</h2>
         <div class="carousel">
+          <div class="otw">
+            <h3>Off the wall</h3>
+            <p>Bright, summery, and strong. The crowd-pleaser is back</p>
+          </div>
+          <div class="hishe">
+            <h3>How It Should Have Ended</h3>
+            <p>One year ago I started this brewing experiment. Now I revisit my first disaster-of-a-beer in true Floridian Oktoberfest style</p>
+          </div>
+          <div class="psa">
+            <h3>The Angst</h3>
+            <p>My Pumpkin Spice Ale. Ugh, its so mainstream.</p>
+          </div>
         </div>
       </div>
     </section>
