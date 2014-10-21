@@ -73,7 +73,6 @@
         <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
       </div>
     </footer>
-   <script src="js/vendor/jquery.js"></script>
    <script src="js/foundation.min.js"></script>
    <script>
      $(document).foundation();
