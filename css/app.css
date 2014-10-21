@@ -63,13 +63,12 @@ header .date {
   color: white;
 }
 
-#beer h2 {
-  float: none;
+#beer {
+  background-color: #0cf;
 }
 
-#beer .carousel div {
-  height: 100px;
-  max-width: 800px;
+#beer h2 {
+  float: none;
 }
 
 #follow {
