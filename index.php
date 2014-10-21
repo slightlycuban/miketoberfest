@@ -74,9 +74,6 @@
       </div>
     </footer>
    <script src="js/foundation.min.js"></script>
-   <script>
-     $(document).foundation();
-   </script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.8/slick.min.js"></script>
     <script src="js/app.js"></script>
   </body>
