@@ -2,5 +2,8 @@
 
 $(document).foundation();
 $(document).ready(function() {
-  $('.carousel').slick({});
+  $('.carousel').slick({
+    dots: true,
+    arrows: true
+  });
 });
