@@ -67,7 +67,8 @@
     </section>
     <footer>
       <div class="row">
-        <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
+		<p>Copyright &copy; 2014, the one and only Mike Tracy<br>
+          Coded on the phone.</p>
       </div>
     </footer>
    <script src="js/foundation.min.js"></script>
