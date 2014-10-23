@@ -19,7 +19,7 @@ header {
 
 header > div {
   background-color: rgba(0, 0, 0, 0.5);
-  height: 100%;
+  min-height: 460px;
 }
 
 header h1, section h2 {
@@ -70,11 +70,18 @@ header .date {
 
 #beer {
   background-color: #0cf;
+  overflow: hidden;
+}
+
+#beer > div {
+  max-width: 940px;
 }
 
 #beer h2 {
   float: none;
 }
+
+#beer .carousel > div { margin: 10px; }
 
 #follow {
   min-height: 310px;

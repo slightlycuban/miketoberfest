@@ -26,7 +26,7 @@
     </div>
     <header>
       <div class="row">
-        <h1 class="logo">Miketoberfest <small>2014</small></h1>
+        <h1 class="logo">Mike<wbr/>tober<wbr/>fest <small>2014</small></h1>
         <p>Come join the celebration of Mike's glorious return to the sunshine state!</p>
         <p class="date">Saturday, October 25, 2014</p>
         <p><a class="button" href="http://twitter.com/intent/tweet?text=See you there! @SlightlyCuban&hashtags=miketoberfest">I'm Coming!</a></p>
