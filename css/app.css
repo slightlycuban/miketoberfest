@@ -73,6 +73,10 @@ header .date {
   overflow: hidden;
 }
 
+#beer, #beer h2, #beer h3 {
+  color:white;
+}
+
 #beer > div {
   max-width: 940px;
 }
