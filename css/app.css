@@ -2,6 +2,7 @@
 
 header, footer {
   text-align: center;
+  background-color: #0cf;
 }
 
 nav {
@@ -9,7 +10,7 @@ nav {
 }
 
 header {
-  height: 460px;
+  min-height: 460px;
   background-color: #0cf;
   color: white;
   background: url('/img/container_park_beer_fest.jpeg') no-repeat center top fixed;
@@ -50,7 +51,7 @@ header .date {
 }
 
 #what, #location {
-  height: 300px;
+  min-height: 300px;
 }
 
 #what {
@@ -63,6 +64,10 @@ header .date {
   color: white;
 }
 
+#what img {
+  margin-bottom: 10px;
+}
+
 #beer {
   background-color: #0cf;
 }
@@ -72,10 +77,14 @@ header .date {
 }
 
 #follow {
-  height: 310px;
+  min-height: 310px;
   background-color: #000080;
 }
 
+footer {
+  color: white;
+  background-color: #333;
+}
 footer p {
   height: 20px;
   font-size: 12px;

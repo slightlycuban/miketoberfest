@@ -58,6 +58,10 @@
             <h3>The Angst</h3>
             <p>My Pumpkin Spice Ale. Ugh, its so mainstream.</p>
           </div>
+          <div class="psa">
+            <h3>Do No Wrong</h3>
+			<p>My chocolate bourbon stout. It's so good that I can't be wrong.</p>
+          </div>
         </div>
       </div>
     </section>
