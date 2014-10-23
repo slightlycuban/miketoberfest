@@ -61,13 +61,6 @@
         </div>
       </div>
     </section>
-    <section id="location">
-      <div class="row">
-        <h2>Where?</h2>
-        <p>I'm thinking Plantation Heritage Park</p>
-        <img class="park-pick" src="http://lorempixel.com/300/200/"/>
-      </div>
-    </section>
     <footer>
       <div class="row">
         <p>Copyright &copy; 2014, the one and only Mike Tracy</p>
