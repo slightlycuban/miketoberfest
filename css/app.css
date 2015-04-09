@@ -2,7 +2,6 @@
 
 header, footer {
   text-align: center;
-  background-color: #0cf;
 }
 
 nav {
@@ -13,7 +12,7 @@ header {
   min-height: 460px;
   background-color: #0cf;
   color: white;
-  background: url('/img/container_park_beer_fest.jpeg') no-repeat center top fixed;
+  background: url('/img/jenny_flowers.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -55,7 +54,7 @@ header .date {
 }
 
 #what {
-  background-color: #d4aa00;
+  background-color: #5D693F;
   color: white;
 }
 
@@ -69,12 +68,12 @@ header .date {
 }
 
 #beer {
-  background-color: #0cf;
+  background-color: #FFCE23;
   overflow: hidden;
 }
 
 #beer, #beer h2, #beer h3 {
-  color:white;
+  color: #333;
 }
 
 #beer > div {
@@ -92,9 +91,9 @@ header .date {
   background-color: #000080;
 }
 
-footer {
-  color: white;
-  background-color: #333;
+footer, #nav, #nav * {
+  color: #333;
+  background-color: white;
 }
 footer p {
   height: 20px;
