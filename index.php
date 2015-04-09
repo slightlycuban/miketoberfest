@@ -32,6 +32,7 @@
         <p><a class="button" href="http://twitter.com/intent/tweet?text=See you there! @SlightlyCuban&hashtags=mikebeer">I'm Coming!</a></p>
       </div>
     </header>
+<!--
     <section id="what">
       <div class="row">
         <div class="large-8 column">
@@ -41,6 +42,7 @@
         <img class="large-4 column" src="/img/185.JPG">
       </div>
     </section>
+-->
     <section id="beer">
       <div class="row">
         <h2 class="large-12 column">Beers on Bottle</h2>
